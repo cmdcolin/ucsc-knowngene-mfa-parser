@@ -1,0 +1,16 @@
+{
+  "name": "wow",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4"
+  },
+  "dependencies": {
+    "@gmod/indexedfasta": "^2.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+*.fa
+*.fai
+dist
+output
